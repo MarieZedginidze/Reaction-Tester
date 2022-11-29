@@ -1,0 +1,16 @@
+body {
+  font-family: cursive;
+}
+  #shape{
+    width:100px;
+    height:100px;
+    display:none;
+    position: relative;
+    top:30px;
+    left:30px;
+  }
+
+  #Esc{
+    position: relative;
+    left: 30px;
+  }
